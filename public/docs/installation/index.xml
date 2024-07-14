@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Installation on Hugo Book</title>
+    <title>Installation on WIKI Seller</title>
     <link>http://localhost:1313/docs/installation/</link>
-    <description>Recent content in Installation on Hugo Book</description>
+    <description>Recent content in Installation on WIKI Seller</description>
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/docs/installation/index.xml" rel="self" type="application/rss+xml" />
@@ -12,7 +12,7 @@
       <link>http://localhost:1313/docs/installation/installing-hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/docs/installation/installing-hugo/</guid>
-      <description>This guide will walk you through the process of installing Hugo on your PC.&#xA;Windows Download the latest Hugo release from the official Hugo releases page.&#xA;Extract the ZIP file to a folder, e.g., C:\Hugo\bin.&#xA;Add the Hugo executable to your PATH:&#xA;Right-click on &amp;lsquo;This PC&amp;rsquo; and go to &amp;lsquo;Properties&amp;rsquo;. Click on &amp;lsquo;Advanced system settings&amp;rsquo;. Click on &amp;lsquo;Environment Variables&amp;rsquo;. Under &amp;lsquo;System variables&amp;rsquo;, find the &amp;lsquo;Path&amp;rsquo; variable, select it and click &amp;lsquo;Edit&amp;rsquo;.</description>
+      <description>This guide will walk you through the process of installing Hugo on your PC.&#xA;Windows&#xD;#&#xD;Download the latest Hugo release from the official Hugo releases page.&#xA;Extract the ZIP file to a folder, e.g., C:\Hugo\bin.&#xA;Add the Hugo executable to your PATH:&#xA;Right-click on &amp;lsquo;This PC&amp;rsquo; and go to &amp;lsquo;Properties&amp;rsquo;. Click on &amp;lsquo;Advanced system settings&amp;rsquo;. Click on &amp;lsquo;Environment Variables&amp;rsquo;. Under &amp;lsquo;System variables&amp;rsquo;, find the &amp;lsquo;Path&amp;rsquo; variable, select it and click &amp;lsquo;Edit&amp;rsquo;.</description>
     </item>
   </channel>
 </rss>

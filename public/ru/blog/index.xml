@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Блог on Hugo Book</title>
+    <title>Блог on WIKI Seller</title>
     <link>http://localhost:1313/ru/blog/</link>
-    <description>Recent content in Блог on Hugo Book</description>
+    <description>Recent content in Блог on WIKI Seller</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <atom:link href="http://localhost:1313/ru/blog/index.xml" rel="self" type="application/rss+xml" />
@@ -12,7 +12,7 @@
       <link>http://localhost:1313/ru/blog/pervaya-statya/</link>
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ru/blog/pervaya-statya/</guid>
-      <description>Это моя первая запись в блоге с использованием Hugo. Hugo - это быстрый и гибкий генератор статических сайтов, написанный на Go.&#xA;Почему Hugo? Скорость: Hugo - один из самых быстрых генераторов статических сайтов. Гибкость: Он поддерживает широкий спектр типов контента и форматов вывода. Простота использования: Благодаря простой структуре и поддержке Markdown, создание контента - это легко. Следите за обновлениями о моем путешествии с Hugo!</description>
+      <description>Это моя первая запись в блоге с использованием Hugo. Hugo - это быстрый и гибкий генератор статических сайтов, написанный на Go.&#xA;Почему Hugo?&#xD;#&#xD;Скорость: Hugo - один из самых быстрых генераторов статических сайтов. Гибкость: Он поддерживает широкий спектр типов контента и форматов вывода. Простота использования: Благодаря простой структуре и поддержке Markdown, создание контента - это легко. Следите за обновлениями о моем путешествии с Hugo!</description>
     </item>
   </channel>
 </rss>
