@@ -1,0 +1,74 @@
+baseURL = 'https://example.com/'
+title = 'Hugo Book'
+theme = 'hugo-book'
+
+# Основные настройки
+disablePathToLower = true
+enableGitInfo = true
+
+# Настройки разметки
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 1
+
+# Настройки многоязычности
+[languages]
+  [languages.ru]
+    languageName = 'Русский'
+    contentDir = 'content/ru'
+    weight = 1
+  [languages.en]
+    languageName = 'English'
+    contentDir = 'content/en'
+    weight = 2
+
+# Настройки меню
+[[menu.main]]
+  identifier = "docs"
+  name = "Документация"
+  url = "/docs/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Блог"
+  url = "/blog/"
+  weight = 20
+
+[[menu.after]]
+  name = "Маркетплейс"
+  url = "https://letsbuy.ru/"
+  weight = 10
+
+[[menu.after]]
+  name = "Telegram"
+  url = "https://telegram.org/"
+  weight = 20
+
+# Параметры темы
+[params]
+  BookTheme = 'auto'
+  BookToC = true
+  BookSection = '*'
+  # BookRepo = 'https://github.com/alex-shpak/hugo-book'
+  # BookEditPath = 'edit/main/exampleSite'
+  BookDateFormat = 'January 2, 2006'
+  BookSearch = true
+  # BookComments = true
+  # BookPortableLinks = true
+  # BookServiceWorker = true
+  BookTranslatedOnly = false
+  
+  # (Optional, default favicon.png) Set the path to a favicon file.
+  # If the favicon is /static/favicon.png then the path would be favicon.png
+  # BookFavicon = 'favicon.png'
+
+  # (Optional, default none) Set the path to a logo for the book.
+  # If the logo is /static/logo.png then the path would be logo.png
+  # BookLogo = 'logцo.png'
+
+  # (Optional, default none) Set leaf bundle to render as side menu
+  # When not specified file structure and weights will be used
+  # BookMenuBundle = '/menu'
