@@ -3,9 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/docs/installation/installing-hugo/</loc>
+    <lastmod>2024-07-14T23:40:11+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/first-post/</loc>
+    <lastmod>2024-07-14T23:40:11+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-14T23:40:11+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -16,9 +20,6 @@
                 hreflang="en"
                 href="http://localhost:1313/blog/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/blog/first-post/</loc>
-    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
@@ -33,6 +34,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/docs/</loc>
+    <lastmod>2024-07-14T23:40:11+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -45,6 +47,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/docs/installation/</loc>
+    <lastmod>2024-07-14T23:40:11+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
@@ -59,7 +62,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-14T21:43:22+03:00</lastmod>
+    <lastmod>2024-07-14T23:40:11+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"

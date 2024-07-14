@@ -3,22 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/ru/docs/ustanovka/ustanovka-hugo/</loc>
-  </url><url>
-    <loc>http://localhost:1313/ru/blog/</loc>
-    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://localhost:1313/ru/blog/"
-                />
+    <lastmod>2024-07-14T23:40:11+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ru/blog/pervaya-statya/</loc>
-    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-14T23:40:11+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ru/categories/</loc>
     <xhtml:link
@@ -44,8 +32,21 @@
                 href="http://localhost:1313/ru/tags/"
                 />
   </url><url>
+    <loc>http://localhost:1313/ru/blog/</loc>
+    <lastmod>2024-07-14T23:40:11+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/ru/blog/"
+                />
+  </url><url>
     <loc>http://localhost:1313/ru/</loc>
-    <lastmod>2024-07-14T21:43:22+03:00</lastmod>
+    <lastmod>2024-07-14T23:40:11+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -58,6 +59,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/ru/docs/</loc>
+    <lastmod>2024-07-14T23:40:11+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -70,5 +72,6 @@
                 />
   </url><url>
     <loc>http://localhost:1313/ru/docs/ustanovka/</loc>
+    <lastmod>2024-07-14T23:40:11+03:00</lastmod>
   </url>
 </urlset>

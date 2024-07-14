@@ -49,7 +49,7 @@ enableGitInfo = true
 
 # Параметры темы
 [params]
-  BookTheme = 'auto'
+  BookTheme = 'light'
   BookToC = true
   BookSection = '*'
   # BookRepo = 'https://github.com/alex-shpak/hugo-book'
