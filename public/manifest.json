@@ -1,6 +1,6 @@
 {
-  "name": "WIKI Seller",
-  "short_name": "WIKI Seller",
+  "name": "docs",
+  "short_name": "docs",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

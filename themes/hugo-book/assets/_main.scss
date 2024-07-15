@@ -21,6 +21,12 @@ body {
   }
 }
 
+//Компания (company)
+.footer-content {
+  color: var(--gray-500); 
+  margin-top: 2rem;
+}
+
 h1,
 h2,
 h3,
@@ -88,10 +94,11 @@ ul.pagination {
 .book-brand {
   margin-top: 0;
   margin-bottom: $padding-16;
+  font-size: $font-size-20; //Размер шрифта для лого
 
   img {
-    height: 1.5em;
-    width: 1.5em;
+    height: 1.25em; //Соотношение сторон для лого
+    width: auto;
     margin-inline-end: $padding-8;
   }
 }
