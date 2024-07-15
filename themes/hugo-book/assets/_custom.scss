@@ -1,3 +1,18 @@
 /* You can add custom styles here. */
 
 // @import "plugins/numbered";
+
+// Определяем переменную с нужным цветом
+$selection-color: #7D40FF;
+
+// Применяем стиль к выделению текста
+::selection {
+  background-color: $selection-color;
+  color: #fff; // Цвет текста при выделении
+}
+
+// Для поддержки Firefox
+::-moz-selection {
+  background-color: $selection-color;
+  color: #fff;
+}
