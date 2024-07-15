@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to the English Section on WIKI Seller</title>
+    <title>Добро пожаловать в русский раздел on WIKI Seller</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Welcome to the English Section on WIKI Seller</description>
+    <description>Recent content in Добро пожаловать в русский раздел on WIKI Seller</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>ru</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Installing Hugo on PC</title>
-      <link>http://localhost:1313/docs/installation/installing-hugo/</link>
+      <title>Установка Hugo на ПК</title>
+      <link>http://localhost:1313/docs/ustanovka/ustanovka-hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/installation/installing-hugo/</guid>
-      <description>This guide will walk you through the process of installing Hugo on your PC.&#xA;Windows&#xD;#&#xD;Download the latest Hugo release from the official Hugo releases page.&#xA;Extract the ZIP file to a folder, e.g., C:\Hugo\bin.&#xA;Add the Hugo executable to your PATH:&#xA;Right-click on &amp;lsquo;This PC&amp;rsquo; and go to &amp;lsquo;Properties&amp;rsquo;. Click on &amp;lsquo;Advanced system settings&amp;rsquo;. Click on &amp;lsquo;Environment Variables&amp;rsquo;. Under &amp;lsquo;System variables&amp;rsquo;, find the &amp;lsquo;Path&amp;rsquo; variable, select it and click &amp;lsquo;Edit&amp;rsquo;.</description>
+      <guid>http://localhost:1313/docs/ustanovka/ustanovka-hugo/</guid>
+      <description>Это руководство проведет вас через процесс установки Hugo на ваш ПК.&#xA;Windows&#xD;#&#xD;Скачайте последнюю версию Hugo со страницы официальных релизов Hugo.&#xA;Распакуйте ZIP-файл в папку, например, C:\Hugo\bin.&#xA;Добавьте исполняемый файл Hugo в PATH:&#xA;Щелкните правой кнопкой мыши на &amp;lsquo;Этот компьютер&amp;rsquo; и выберите &amp;lsquo;Свойства&amp;rsquo;. Нажмите &amp;lsquo;Дополнительные параметры системы&amp;rsquo;. Нажмите &amp;lsquo;Переменные среды&amp;rsquo;. В разделе &amp;lsquo;Системные переменные&amp;rsquo; найдите переменную &amp;lsquo;Path&amp;rsquo;, выберите ее и нажмите &amp;lsquo;Изменить&amp;rsquo;. Нажмите &amp;lsquo;Создать&amp;rsquo; и добавьте путь к исполняемому файлу Hugo (например, C:\Hugo\bin).</description>
     </item>
     <item>
-      <title>My First Blog Post</title>
-      <link>http://localhost:1313/blog/first-post/</link>
+      <title>Моя первая запись в блоге</title>
+      <link>http://localhost:1313/blog/pervaya-statya/</link>
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/first-post/</guid>
-      <description>This is my first blog post using Hugo. Hugo is a fast and flexible static site generator built in Go.&#xA;Why Hugo?&#xD;#&#xD;Speed: Hugo is one of the fastest static site generators available. Flexibility: It supports a wide range of content types and output formats. Easy to use: With its simple structure and Markdown support, creating content is a breeze. Stay tuned for more posts about my journey with Hugo!</description>
+      <guid>http://localhost:1313/blog/pervaya-statya/</guid>
+      <description>Это моя первая запись в блоге с использованием Hugo. Hugo - это быстрый и гибкий генератор статических сайтов, написанный на Go.&#xA;Почему Hugo?&#xD;#&#xD;Скорость: Hugo - один из самых быстрых генераторов статических сайтов. Гибкость: Он поддерживает широкий спектр типов контента и форматов вывода. Простота использования: Благодаря простой структуре и поддержке Markdown, создание контента - это легко. Следите за обновлениями о моем путешествии с Hugo!</description>
     </item>
   </channel>
 </rss>

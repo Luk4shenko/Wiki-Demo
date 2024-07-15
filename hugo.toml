@@ -2,6 +2,10 @@ baseURL = 'https://example.com/'
 title = 'WIKI Seller'
 theme = 'hugo-book'
 
+#Язык
+defaultContentLanguage = 'ru'
+defaultContentLanguageInSubdir = false
+
 # Основные настройки
 disablePathToLower = true
 enableGitInfo = true
