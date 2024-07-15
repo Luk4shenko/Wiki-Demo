@@ -16,3 +16,39 @@ $selection-color: #7D40FF;
   background-color: $selection-color;
   color: #fff;
 }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+}
+
+.markdown {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight:700;
+  }
+}
+
+aside nav ul {
+  li {
+    & > a {
+      font-weight: bold;
+    }
+
+    ul {
+      li {
+        & > a {
+          font-weight: normal;
+        }
+      }
+    }
+  }
+}
