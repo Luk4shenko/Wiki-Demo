@@ -41,6 +41,7 @@ enableGitInfo = true
   url = "/blog/"
   weight = 20
 
+# Links After with ↗
 [[menu.after]]
   name = "Маркетплейс ↗"
   url = "https://letsbuy.ru/"
