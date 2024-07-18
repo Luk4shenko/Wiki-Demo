@@ -42,12 +42,12 @@ enableGitInfo = true
   weight = 20
 
 [[menu.after]]
-  name = "Маркетплейс"
+  name = "Маркетплейс ↗"
   url = "https://letsbuy.ru/"
   weight = 10
 
 [[menu.after]]
-  name = "Telegram"
+  name = "Telegram ↗"
   url = "https://telegram.org/"
   weight = 20
 
