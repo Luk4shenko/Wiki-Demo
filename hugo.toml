@@ -1,5 +1,5 @@
 baseURL = 'https://example.com/'
-title = 'docs'
+title = 'wiki'
 theme = 'hugo-book'
 
 #Язык
@@ -78,4 +78,3 @@ enableGitInfo = true
   # BookMenuBundle = '/menu'
 
   CompanyName = "ООО Летсбай"
-  CurrentYear = 2024
