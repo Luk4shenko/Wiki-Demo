@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Добро пожаловать в русский раздел on wiki</title>
+    <title>Добро пожаловать в русский раздел on hub</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Добро пожаловать в русский раздел on wiki</description>
+    <description>Recent content in Добро пожаловать в русский раздел on hub</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Установка Hugo на ПК</title>
-      <link>http://localhost:1313/docs/ustanovka/ustanovka-hugo/</link>
+      <link>http://localhost:1313/tips/ustanovka/ustanovka-hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/ustanovka/ustanovka-hugo/</guid>
+      <guid>http://localhost:1313/tips/ustanovka/ustanovka-hugo/</guid>
       <description>Это руководство проведет вас через процесс установки Hugo на ваш ПК.&#xA;Windows&#xD;#&#xD;Скачайте последнюю версию Hugo со страницы официальных релизов Hugo.&#xA;Распакуйте ZIP-файл в папку, например, C:\Hugo\bin.&#xA;Добавьте исполняемый файл Hugo в PATH:&#xA;Щелкните правой кнопкой мыши на &amp;lsquo;Этот компьютер&amp;rsquo; и выберите &amp;lsquo;Свойства&amp;rsquo;. Нажмите &amp;lsquo;Дополнительные параметры системы&amp;rsquo;. Нажмите &amp;lsquo;Переменные среды&amp;rsquo;. В разделе &amp;lsquo;Системные переменные&amp;rsquo; найдите переменную &amp;lsquo;Path&amp;rsquo;, выберите ее и нажмите &amp;lsquo;Изменить&amp;rsquo;. Нажмите &amp;lsquo;Создать&amp;rsquo; и добавьте путь к исполняемому файлу Hugo (например, C:\Hugo\bin).</description>
     </item>
     <item>
-      <title>Моя первая запись в блоге</title>
-      <link>http://localhost:1313/blog/pervaya-statya/</link>
+      <title>Моя первая новость</title>
+      <link>http://localhost:1313/news/pervaya-statya/</link>
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/pervaya-statya/</guid>
+      <guid>http://localhost:1313/news/pervaya-statya/</guid>
       <description>Это моя первая запись в блоге с использованием Hugo. Hugo - это быстрый и гибкий генератор статических сайтов, написанный на Go.&#xA;Почему Hugo?&#xD;#&#xD;Скорость: Hugo - один из самых быстрых генераторов статических сайтов. Гибкость: Он поддерживает широкий спектр типов контента и форматов вывода. Простота использования: Благодаря простой структуре и поддержке Markdown, создание контента - это легко. Следите за обновлениями о моем путешествии с Hugo!</description>
     </item>
     <item>
       <title>Пример Markdown документа</title>
-      <link>http://localhost:1313/blog/primer/</link>
+      <link>http://localhost:1313/news/primer/</link>
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/primer/</guid>
+      <guid>http://localhost:1313/news/primer/</guid>
       <description>Пример Markdown документа&#xD;#&#xD;Введение&#xD;#&#xD;Это пример документа, демонстрирующего различные элементы и возможности Markdown.&#xA;Форматирование текста&#xD;#&#xD;Вы можете использовать жирный, курсив, или жирный курсив. Также доступно зачеркивание.&#xA;Заголовки&#xD;#&#xD;Заголовок 1&#xD;#&#xD;Заголовок 2&#xD;#&#xD;Заголовок 3&#xD;#&#xD;Заголовок 4&#xD;#&#xD;Заголовок 5&#xD;#&#xD;Заголовок 6&#xD;#&#xD;Списки&#xD;#&#xD;Маркированный список&#xD;#&#xD;Элемент 1 Элемент 2 Подэлемент 2.1 Подэлемент 2.2 Элемент 3 Нумерованный список&#xD;#&#xD;Первый элемент Второй элемент Третий элемент Ссылки и изображения&#xD;#&#xD;Ссылка на OpenAI</description>
     </item>
   </channel>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Новости on hub</title>
+    <link>http://localhost:1313/news/</link>
+    <description>Recent content in Новости on hub</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 14 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Моя первая новость</title>
+      <link>http://localhost:1313/news/pervaya-statya/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/pervaya-statya/</guid>
+      <description>Это моя первая запись в блоге с использованием Hugo. Hugo - это быстрый и гибкий генератор статических сайтов, написанный на Go.&#xA;Почему Hugo?&#xD;#&#xD;Скорость: Hugo - один из самых быстрых генераторов статических сайтов. Гибкость: Он поддерживает широкий спектр типов контента и форматов вывода. Простота использования: Благодаря простой структуре и поддержке Markdown, создание контента - это легко. Следите за обновлениями о моем путешествии с Hugo!</description>
+    </item>
+    <item>
+      <title>Пример Markdown документа</title>
+      <link>http://localhost:1313/news/primer/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/primer/</guid>
+      <description>Пример Markdown документа&#xD;#&#xD;Введение&#xD;#&#xD;Это пример документа, демонстрирующего различные элементы и возможности Markdown.&#xA;Форматирование текста&#xD;#&#xD;Вы можете использовать жирный, курсив, или жирный курсив. Также доступно зачеркивание.&#xA;Заголовки&#xD;#&#xD;Заголовок 1&#xD;#&#xD;Заголовок 2&#xD;#&#xD;Заголовок 3&#xD;#&#xD;Заголовок 4&#xD;#&#xD;Заголовок 5&#xD;#&#xD;Заголовок 6&#xD;#&#xD;Списки&#xD;#&#xD;Маркированный список&#xD;#&#xD;Элемент 1 Элемент 2 Подэлемент 2.1 Подэлемент 2.2 Элемент 3 Нумерованный список&#xD;#&#xD;Первый элемент Второй элемент Третий элемент Ссылки и изображения&#xD;#&#xD;Ссылка на OpenAI</description>
+    </item>
+  </channel>
+</rss>

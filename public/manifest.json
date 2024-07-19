@@ -1,6 +1,6 @@
 {
-  "name": "wiki",
-  "short_name": "wiki",
+  "name": "hub",
+  "short_name": "hub",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

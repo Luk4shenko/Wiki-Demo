@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Установка on wiki</title>
+    <title>Установка on hub</title>
     <link>http://localhost:1313/docs/ustanovka/</link>
-    <description>Recent content in Установка on wiki</description>
+    <description>Recent content in Установка on hub</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <atom:link href="http://localhost:1313/docs/ustanovka/index.xml" rel="self" type="application/rss+xml" />

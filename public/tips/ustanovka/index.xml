@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Установка on hub</title>
+    <link>http://localhost:1313/tips/ustanovka/</link>
+    <description>Recent content in Установка on hub</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <atom:link href="http://localhost:1313/tips/ustanovka/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Установка Hugo на ПК</title>
+      <link>http://localhost:1313/tips/ustanovka/ustanovka-hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tips/ustanovka/ustanovka-hugo/</guid>
+      <description>Это руководство проведет вас через процесс установки Hugo на ваш ПК.&#xA;Windows&#xD;#&#xD;Скачайте последнюю версию Hugo со страницы официальных релизов Hugo.&#xA;Распакуйте ZIP-файл в папку, например, C:\Hugo\bin.&#xA;Добавьте исполняемый файл Hugo в PATH:&#xA;Щелкните правой кнопкой мыши на &amp;lsquo;Этот компьютер&amp;rsquo; и выберите &amp;lsquo;Свойства&amp;rsquo;. Нажмите &amp;lsquo;Дополнительные параметры системы&amp;rsquo;. Нажмите &amp;lsquo;Переменные среды&amp;rsquo;. В разделе &amp;lsquo;Системные переменные&amp;rsquo; найдите переменную &amp;lsquo;Path&amp;rsquo;, выберите ее и нажмите &amp;lsquo;Изменить&amp;rsquo;. Нажмите &amp;lsquo;Создать&amp;rsquo; и добавьте путь к исполняемому файлу Hugo (например, C:\Hugo\bin).</description>
+    </item>
+  </channel>
+</rss>

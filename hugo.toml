@@ -1,5 +1,5 @@
 baseURL = 'https://example.com/'
-title = 'wiki'
+title = 'hub'
 theme = 'hugo-book'
 
 #Язык
@@ -30,16 +30,40 @@ enableGitInfo = true
 
 # Настройки меню
 [[menu.main]]
-  identifier = "docs"
-  name = "Документация"
-  url = "/docs/"
+  identifier = "news"
+  name = "Новости"
+  url = "/news/"
   weight = 10
 
 [[menu.main]]
-  identifier = "blog"
-  name = "Блог"
-  url = "/blog/"
+  identifier = "tips"
+  name = "Советы"
+  url = "/tips/"
   weight = 20
+  
+[[menu.main]]
+  identifier = "offer"
+  name = "Оферта"
+  url = "/offer/"
+  weight = 30
+  
+[[menu.main]]
+  identifier = "terms_of_use"
+  name = "Правила"
+  url = "/terms_of_use/"
+  weight = 40
+
+[[menu.main]]
+  identifier = "privacy_policy"
+  name = "Политика конфиденциальности"
+  url = "/privacy_policy/"
+  weight = 50
+
+[[menu.main]]
+  identifier = "contacts"
+  name = "Контакты"
+  url = "/contacts/"
+  weight = 60
 
 # Links After with ↗
 [[menu.after]]
@@ -78,4 +102,5 @@ enableGitInfo = true
   # When not specified file structure and weights will be used
   # BookMenuBundle = '/menu'
 
-  CompanyName = "ООО Летсбай"
+  # Название компании на русском языке без ООО и кавычек
+  CompanyName = "Летсбай"
