@@ -1,6 +1,6 @@
 {
-  "name": "hub",
-  "short_name": "hub",
+  "name": "spot",
+  "short_name": "spot",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Политика конфиденциальности on hub</title>
+    <title>Политика конфиденциальности on spot</title>
     <link>http://localhost:1313/privacy_policy/</link>
-    <description>Recent content in Политика конфиденциальности on hub</description>
+    <description>Recent content in Политика конфиденциальности on spot</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <atom:link href="http://localhost:1313/privacy_policy/index.xml" rel="self" type="application/rss+xml" />
